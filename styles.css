@@ -27,7 +27,7 @@
 }
 
 .logo {
-    background-image: url("/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: contain;
     height:100% ;
     width: 100%;
@@ -222,7 +222,7 @@ span{
 
                                                       /* hero section*/
 .hero-section {
-    background-image: url("/hero.jpg");
+    background-image: url("hero.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -266,7 +266,7 @@ h2 {
 .a-a:hover{text-decoration: underline;}
 
 .box1-img{
-    background-image: url("/box6.jpg");
+    background-image: url("box6.jpg");
     background-size: cover;
     height: 300px;
     width: 90%;
@@ -276,7 +276,7 @@ h2 {
 
 
 .box2-img {
-    background-image: url("/box2.jpg");
+    background-image: url("box2.jpg");
     background-size: cover;
     height: 300px;
     width: 90%;
@@ -285,7 +285,7 @@ h2 {
 }
 
 .box3-img{
-    background-image: url("/box3.jpg");
+    background-image: url("box3.jpg");
     background-size: contain;
     background-repeat:repeat;
     height: 300px;
@@ -294,7 +294,7 @@ h2 {
 }
 
 .box4-img {
-    background-image: url("/box4.jpg");
+    background-image: url("box4.jpg");
     background-size: cover;
     height: 300px;
     width: 90%;
@@ -302,7 +302,7 @@ h2 {
 }
 
 .box5-img {
-    background-image: url("/box2_image.jpg");
+    background-image: url("box2_image.jpg");
     background-size: cover;
     height: 300px;
     width: 90%;
@@ -310,7 +310,7 @@ h2 {
 }
 
 .box6-img {
-    background-image: url("/box5.jpg");
+    background-image: url("box5.jpg");
     background-size: cover;
     height: 300px;
     width: 90%;
@@ -318,7 +318,7 @@ h2 {
 }
 
 .box7-img {
-    background-image: url("/box7.jpg");
+    background-image: url("box7.jpg");
     background-size: cover;
     height: 300px;
     width: 90%;
@@ -326,7 +326,7 @@ h2 {
 }
 
 .box8-img {
-    background-image: url("/box8.jpg");
+    background-image: url("box8.jpg");
     background-size: cover;
     height: 300px;
     width: 90%;
@@ -391,7 +391,7 @@ h2 {
 
 }
 .logo {
-    background-image: url("/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px ;
     width: 80px;
