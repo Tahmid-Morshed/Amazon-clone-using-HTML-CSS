@@ -159,8 +159,8 @@ span{
 .panel{
     display: flex;
     align-items: center;
-    height: 3em;
-    background-color: #0f1111;
+    height: 2.5rem;
+    background-color: #37475A;
     font-size: 0.75em;
 }
 
