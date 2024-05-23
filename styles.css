@@ -58,7 +58,7 @@
 }
 
 .up {
-    font-size: 1.75em;
+    font-size: 0.75em;
     color: #cccccc;
     margin-left: 15px;
 }
@@ -159,8 +159,8 @@ span{
 .panel{
     display: flex;
     align-items: center;
-    height: 2.5em;
-    background-color: hwb(180 5% 94% / 0.894);
+    height: 3em;
+    background-color: #0f1111;
     font-size: 0.75em;
 }
 
