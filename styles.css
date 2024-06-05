@@ -29,6 +29,7 @@
 .logo {
     background-image: url("amazon_logo.png");
     background-size: contain;
+    background-position: center;
     height:100% ;
     width: 100%;
 }
@@ -268,6 +269,7 @@ h2 {
 .box1-img{
     background-image: url("box6.jpg");
     background-size: cover;
+    background-position: center;
     height: 18.75em;
     width: 90%;
     margin: 15px;
@@ -278,6 +280,7 @@ h2 {
 .box2-img {
     background-image: url("box2.jpg");
     background-size: cover;
+    background-position: center;
     height: 18.75em;
     width: 90%;
     margin: 15px;
@@ -286,7 +289,8 @@ h2 {
 
 .box3-img{
     background-image: url("box3.jpg");
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
     background-repeat:repeat;
     height: 18.75em;
     width: 90%;
@@ -296,6 +300,7 @@ h2 {
 .box4-img {
     background-image: url("box4.jpg");
     background-size: cover;
+     background-position: center;
     height: 18.75em;
     width: 90%;
     margin: 15px;
@@ -304,6 +309,7 @@ h2 {
 .box5-img {
     background-image: url("box2_image.jpg");
     background-size: cover;
+     background-position: center;
     height: 18.75em;
     width: 90%;
     margin: 15px;
@@ -312,6 +318,7 @@ h2 {
 .box6-img {
     background-image: url("box5.jpg");
     background-size: cover;
+     background-position: center;
     height: 18.75em;
     width: 90%;
     margin: 15px;
@@ -320,6 +327,7 @@ h2 {
 .box7-img {
     background-image: url("box7.jpg");
     background-size: cover;
+     background-position: center;
     height: 18.75em;
     width: 90%;
     margin: 15px;
@@ -328,6 +336,7 @@ h2 {
 .box8-img {
     background-image: url("box8.jpg");
     background-size: cover;
+     background-position: center;
     height: 18.75em;
     width: 90%;
     margin: 15px;
